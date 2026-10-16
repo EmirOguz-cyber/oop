@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Birinci\Birinci\bin\Debug\net10.0-windows\Birinci.exe
+C:\Users\user\source\repos\Birinci\Birinci\bin\Debug\net10.0-windows\Birinci.deps.json
+C:\Users\user\source\repos\Birinci\Birinci\bin\Debug\net10.0-windows\Birinci.runtimeconfig.json
+C:\Users\user\source\repos\Birinci\Birinci\bin\Debug\net10.0-windows\Birinci.dll
+C:\Users\user\source\repos\Birinci\Birinci\bin\Debug\net10.0-windows\Birinci.pdb
+C:\Users\user\source\repos\Birinci\Birinci\obj\Debug\net10.0-windows\Birinci.Form1.resources
+C:\Users\user\source\repos\Birinci\Birinci\obj\Debug\net10.0-windows\Birinci.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Birinci\Birinci\obj\Debug\net10.0-windows\Birinci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Birinci\Birinci\obj\Debug\net10.0-windows\Birinci.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Birinci\Birinci\obj\Debug\net10.0-windows\Birinci.AssemblyInfo.cs
+C:\Users\user\source\repos\Birinci\Birinci\obj\Debug\net10.0-windows\Birinci.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Birinci\Birinci\obj\Debug\net10.0-windows\Birinci.dll
+C:\Users\user\source\repos\Birinci\Birinci\obj\Debug\net10.0-windows\refint\Birinci.dll
+C:\Users\user\source\repos\Birinci\Birinci\obj\Debug\net10.0-windows\Birinci.pdb
+C:\Users\user\source\repos\Birinci\Birinci\obj\Debug\net10.0-windows\Birinci.genruntimeconfig.cache
+C:\Users\user\source\repos\Birinci\Birinci\obj\Debug\net10.0-windows\ref\Birinci.dll
+C:\Users\user\source\repos\Birinci\Birinci\obj\Debug\net10.0-windows\Birinci.csproj.Up2Date
