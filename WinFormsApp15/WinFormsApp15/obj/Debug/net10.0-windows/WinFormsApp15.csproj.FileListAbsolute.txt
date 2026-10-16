@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\obj\Debug\net10.0-windows\WinFormsApp15.Form1.resources
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\obj\Debug\net10.0-windows\WinFormsApp15.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\obj\Debug\net10.0-windows\WinFormsApp15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\obj\Debug\net10.0-windows\WinFormsApp15.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\obj\Debug\net10.0-windows\WinFormsApp15.AssemblyInfo.cs
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\obj\Debug\net10.0-windows\WinFormsApp15.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\bin\Debug\net10.0-windows\WinFormsApp15.exe
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\bin\Debug\net10.0-windows\WinFormsApp15.deps.json
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\bin\Debug\net10.0-windows\WinFormsApp15.runtimeconfig.json
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\bin\Debug\net10.0-windows\WinFormsApp15.dll
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\bin\Debug\net10.0-windows\WinFormsApp15.pdb
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\obj\Debug\net10.0-windows\WinFormsApp15.dll
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\obj\Debug\net10.0-windows\refint\WinFormsApp15.dll
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\obj\Debug\net10.0-windows\WinFormsApp15.pdb
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\obj\Debug\net10.0-windows\WinFormsApp15.genruntimeconfig.cache
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\obj\Debug\net10.0-windows\ref\WinFormsApp15.dll
+C:\Users\user\source\repos\WinFormsApp15\WinFormsApp15\obj\Debug\net10.0-windows\WinForms.EEC3A07D.Up2Date
