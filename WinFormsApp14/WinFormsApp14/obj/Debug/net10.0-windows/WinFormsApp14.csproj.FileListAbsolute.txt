@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\WinFormsApp14\WinFormsApp14\bin\Debug\net10.0-windows\WinFormsApp14.exe
+C:\Users\user\source\repos\WinFormsApp14\WinFormsApp14\bin\Debug\net10.0-windows\WinFormsApp14.deps.json
+C:\Users\user\source\repos\WinFormsApp14\WinFormsApp14\bin\Debug\net10.0-windows\WinFormsApp14.runtimeconfig.json
+C:\Users\user\source\repos\WinFormsApp14\WinFormsApp14\bin\Debug\net10.0-windows\WinFormsApp14.dll
+C:\Users\user\source\repos\WinFormsApp14\WinFormsApp14\bin\Debug\net10.0-windows\WinFormsApp14.pdb
+C:\Users\user\source\repos\WinFormsApp14\WinFormsApp14\obj\Debug\net10.0-windows\WinFormsApp14.Form1.resources
+C:\Users\user\source\repos\WinFormsApp14\WinFormsApp14\obj\Debug\net10.0-windows\WinFormsApp14.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WinFormsApp14\WinFormsApp14\obj\Debug\net10.0-windows\WinFormsApp14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\WinFormsApp14\WinFormsApp14\obj\Debug\net10.0-windows\WinFormsApp14.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WinFormsApp14\WinFormsApp14\obj\Debug\net10.0-windows\WinFormsApp14.AssemblyInfo.cs
+C:\Users\user\source\repos\WinFormsApp14\WinFormsApp14\obj\Debug\net10.0-windows\WinFormsApp14.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WinFormsApp14\WinFormsApp14\obj\Debug\net10.0-windows\WinFormsApp14.dll
+C:\Users\user\source\repos\WinFormsApp14\WinFormsApp14\obj\Debug\net10.0-windows\refint\WinFormsApp14.dll
+C:\Users\user\source\repos\WinFormsApp14\WinFormsApp14\obj\Debug\net10.0-windows\WinFormsApp14.pdb
+C:\Users\user\source\repos\WinFormsApp14\WinFormsApp14\obj\Debug\net10.0-windows\WinFormsApp14.genruntimeconfig.cache
+C:\Users\user\source\repos\WinFormsApp14\WinFormsApp14\obj\Debug\net10.0-windows\ref\WinFormsApp14.dll
+C:\Users\user\source\repos\WinFormsApp14\WinFormsApp14\obj\Debug\net10.0-windows\WinForms.EEC3A09C.Up2Date
